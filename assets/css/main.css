@@ -2482,6 +2482,14 @@
 
 			}
 
+/* Subscription */
+.subscription li {
+	padding: 4em 4em 2em 6em ;
+	display: block;
+	position: relative;
+	text-align: left;
+	width: 33%;
+}
 /* Spotlight */
 
 	.spotlight {
